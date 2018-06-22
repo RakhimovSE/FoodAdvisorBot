@@ -91,3 +91,5 @@ ENV/
 
 # PyCharm settings
 .idea
+
+FoodAdvisorBot/db_model.mwb.bak

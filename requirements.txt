@@ -1,1 +1,4 @@
 InstagramApi
+paramiko
+pymysql
+sshtunnel

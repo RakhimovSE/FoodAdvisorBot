@@ -1,0 +1,11 @@
+LOGIN = ''
+PASSWORD = ''
+
+SSH_HOST = ''
+SSH_PORT = 22
+SSH_USERNAME = ''
+SSH_PKEY = ''
+
+DB_USER = ''
+DB_PASSWORD = ''
+DB_NAME = ''
